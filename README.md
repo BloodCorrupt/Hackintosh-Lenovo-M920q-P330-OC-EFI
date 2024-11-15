@@ -1,2 +1,2 @@
 # Hackintosh-Lenovo-M920q-P330-OC-EFI
-Lenovo M920Q/M720Q/P330 Tiny hackintosh EFI
+Lenovo M920Q/M720Q/P330 Tiny hackintosh EFI (Ventura 13.7.1)
